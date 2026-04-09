@@ -4,7 +4,7 @@ from tft_utils import RateLimiter
 
 # Configuration
 output_file = "data/dump.json"
-API_KEY = "RGAPI-0e7b943f-4a45-49d1-be95-463c4c4e1bb1" # get one at https://developer.riotgames.com/
+API_KEY = "riot api key" # 
 REGION = "euw1"
 CONTINENT = "europe"
 
